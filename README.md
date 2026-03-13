@@ -42,7 +42,7 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 <h3>📫 Reach Me</h3>
 
 <p>📧 135.mayankgandhi@gmail.com</p>
-
+<p>📧 gandhi.may@northeastern.edu</p>
 <br>
 
 <h3>🌐 Connect With Me</h3>
