@@ -1,28 +1,30 @@
-<h1 align="center">Hi 👋, I'm Mayank Gandhi</h1>
+<table>
+<tr>
+<td width="40%">
 
-<!-- Banner Image -->
-<p align="center">
-<img src="assets/workspace-banner.png" width="850"/>
-</p>
+<img src="GitM.png" width="100%">
 
-<p align="center">
-Bioinformatics | Genomics | AI for Biological Data
-</p>
+</td>
 
-<p align="center">
-I work at the intersection of <b>bioinformatics, data science, and artificial intelligence</b> to analyze complex biological systems.  
-My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computational modelling</b>, combining mathematics, machine learning, and scalable pipelines to uncover biological insights.
-</p>
+<td width="60%">
 
-<p align="center">
-🎓 MS Bioinformatics — Northeastern University
-</p>
+<h1>Hi 👋, I'm Mayank Gandhi</h1>
 
-<p align="center">
-🌐 Portfolio: <a href="https://mayankgandhi13.github.io">mayankgandhi13.github.io</a>
-</p>
+Bioinformatics | Genomics | AI for Biological Data  
 
-<br>
+I work at the intersection of **bioinformatics, data science, and artificial intelligence** to analyze complex biological systems.  
+My work focuses on **genomics, transcriptomics, RNA-seq analysis, and computational modelling**, combining mathematics, machine learning, and scalable pipelines to uncover biological insights.
+
+🎓 MS Bioinformatics — Northeastern University  
+
+🌐 Portfolio:  
+https://mayankgandhi13.github.io
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🔬 Current Interests
 
@@ -32,25 +34,23 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 - Bioinformatics workflows on HPC systems  
 - AI-driven biomarker discovery  
 
-<br>
+---
 
 ## 📫 Reach Me
 
-📧 **135.mayankgandhi@gmail.com**
+📧 135.mayankgandhi@gmail.com  
 
-<br>
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mayankgandhi0713" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<a href="https://www.linkedin.com/in/mayankgandhi0713">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
 </a>
-</p>
 
-<br>
+---
 
-<h3 align="center">🧰 Tech Stack</h3>
+## 🧰 Tech Stack
 
 <p align="center">
 
@@ -74,18 +74,6 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 
 </p>
 
-<br>
-
-## 🖥 Workspace
-
-<p align="center">
-<img src="assets/workspace-banner.png" width="700"/>
-</p>
-
-<p align="center">
-<i>Computational biology, one pipeline at a time.</i>
-</p>
-
-<br>
+---
 
 ![Snake eating my contributions](https://raw.githubusercontent.com/mayankgandhi13/mayankgandhi13/output/github-contribution-grid-snake.svg)
