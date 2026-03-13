@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mayank Gandhi</h1>
 
+<!-- Banner Image -->
+<p align="center">
+<img src="assets/workspace-banner.png" width="850"/>
+</p>
+
 <p align="center">
 Bioinformatics | Genomics | AI for Biological Data
 </p>
 
 <p align="center">
 I work at the intersection of <b>bioinformatics, data science, and artificial intelligence</b> to analyze complex biological systems.  
-My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computational modelling </b>, combining mathematics, machine learning, and scalable pipelines to uncover biological insights.
+My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computational modelling</b>, combining mathematics, machine learning, and scalable pipelines to uncover biological insights.
 </p>
 
 <p align="center">
@@ -48,6 +53,7 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 <h3 align="center">🧰 Tech Stack</h3>
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
@@ -65,8 +71,19 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
+
 </p>
 
+<br>
+
+## 🖥 Workspace
+
+<p align="center">
+<img src="assets/workspace-banner.png" width="700"/>
+</p>
+
+<p align="center">
+<i>Computational biology, one pipeline at a time.</i>
 </p>
 
 <br>
