@@ -16,6 +16,7 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 
 <p>
 🎓 <b>MS Bioinformatics — Northeastern University</b>
+🎓 <b>B.Tech Biotechnology — MIT-ADT University</b>
 </p>
 <p>
 </p>
