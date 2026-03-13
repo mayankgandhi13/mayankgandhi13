@@ -17,7 +17,8 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 <p>
 🎓 <b>MS Bioinformatics — Northeastern University</b>
 </p>
-
+<p>
+</p>
 <p>
 🌐 <b>Portfolio:</b><br>
 <a href="https://mayankgandhi13.github.io">mayankgandhi13.github.io</a>
