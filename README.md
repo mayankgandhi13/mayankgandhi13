@@ -53,7 +53,7 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 
 <td width="40%">
 
-<img src="GitM2.png" width="100%">
+<img src="GitM3.png" width="100%">
 
 </td>
 
