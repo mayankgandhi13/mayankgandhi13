@@ -22,7 +22,7 @@ My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computati
 </p>
 <p>
 🌐 <b>Portfolio:</b><br>
-<a href="https://mayankgandhi13.github.io">mayankgandhi13.github.io</a>
+<a href="https://mayank-gandhi.vercel.app/">mayank-gandhi.vercel.app</a>
 </p>
 
 <br>
