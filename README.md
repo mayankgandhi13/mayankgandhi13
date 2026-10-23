@@ -1,93 +1,85 @@
-<h1 align="center">Hi 👋, I'm Mayank Gandhi</h1>
+<div align="center">
 
-<table>
-<tr>
+<img src="./ascii.svg" width="580" alt="Mayank Gandhi"/>
 
-<td width="60%">
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-<p>
-<b>Bioinformatics | Genomics | AI for Biological Data</b>
-</p>
+[portfolio](https://mayank-gandhi.vercel.app/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/mayankgandhi0713/) &nbsp;·&nbsp;
+[orcid](https://orcid.org/0009-0000-3448-9308) &nbsp;·&nbsp;
+[email](mailto:135.mayankgandhi@gmail.com) &nbsp;·&nbsp;
+[northeastern](mailto:gandhi.may@northeastern.edu)
 
-<p>
-I work at the intersection of <b>bioinformatics, data science, and artificial intelligence</b> to analyze complex biological systems.
-My work focuses on <b>genomics, transcriptomics, RNA-seq analysis, and computational modelling</b>, combining mathematics, machine learning, and scalable pipelines to uncover biological insights.
-</p>
+</div>
 
-<p>
-🎓 <b>MS Bioinformatics — Northeastern University</b>
-</p>
-<p>
-🎓 <b>B.Tech Biotechnology — MIT-ADT University</b>
-</p>
-<p>
-🌐 <b>Portfolio:</b><br>
-<a href="https://mayank-gandhi.vercel.app/">mayank-gandhi.vercel.app</a>
-</p>
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-<br>
+> MS Bioinformatics at Northeastern, in Boston. B.Tech Biotechnology, MIT-ADT University.<br>
+> I like problems where the biology is messy and the model has to earn its keep.
 
-<h3>🔬 Current Interests</h3>
+Bioinformatics, genomics and AI for biological data. Mostly single-cell and bulk<br>
+transcriptomics: RNA-seq pipelines (STAR, Salmon, DESeq2) on HPC, deconvolution, and<br>
+rewriting slow R tools in Rust so they fit in memory. Also machine learning for<br>
+biomarker discovery and antimicrobial resistance.
 
-<ul>
-<li>Computational genomics & transcriptomics</li>
-<li>RNA-seq pipelines (STAR, Salmon, DESeq2)</li>
-<li>Machine learning for biological data</li>
-<li>Bioinformatics workflows on HPC systems</li>
-<li>AI-driven biomarker discovery</li>
-</ul>
+Before Boston I was at [NCBS](https://www.ncbs.res.in/) in Bangalore, building signalling models of synapses<br>
+for neurodegenerative disease: ODEs and HillTau, checked against experiments with FindSim.<br>
+Most recently, software developer intern at Cencora on EDI/X12 healthcare integrations.
 
-<br>
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<h3>📫 Reach Me</h3>
+<samp>python &nbsp; R &nbsp; rust &nbsp; bash &nbsp; bioconductor &nbsp; numpy &nbsp; pandas &nbsp; pytorch &nbsp; seaborn &nbsp; hilltau</samp><br>
+<samp>javascript &nbsp; react &nbsp; angular &nbsp; mysql &nbsp; mongodb &nbsp; oracle &nbsp; docker &nbsp; tableau &nbsp; git &nbsp; linux</samp>
 
-<p>📧 135.mayankgandhi@gmail.com</p>
-<p>📧 gandhi.may@northeastern.edu</p>
-<br>
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-<h3>🌐 Connect With Me</h3>
+**[doublet-rs](https://github.com/mayankgandhi13/doublet-rs)** &nbsp;·&nbsp; <samp>rust, R, python</samp><br>
+Memory-efficient Rust reimplementation of DoubletFinder for scRNA-seq doublet<br>
+detection, with R (extendr) and Python (PyO3) bindings.
 
-<a href="https://www.linkedin.com/in/mayankgandhi0713">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
+**[gliph2-rs](https://github.com/mayankgandhi13/gliph2-rs)** &nbsp;·&nbsp; <samp>rust, R, python</samp><br>
+Fast, deterministic Rust reimplementation of GLIPH2: clusters T-cell receptors<br>
+by antigen specificity. Same bindings, same idea.
 
-</td>
+**[cellchatr](https://github.com/mayankgandhi13/cellchatr)** &nbsp;·&nbsp; <samp>R, rust</samp><br>
+R package for querying the CellChat database, backed by Rust via extendr.
 
-<td width="40%">
+**[Multi-Omics-AMR-Prediction](https://github.com/mayankgandhi13/Multi-Omics-AMR-Prediction-with-Attention-Fusion)** &nbsp;·&nbsp; <samp>python, pytorch</samp><br>
+Predicts E. coli antimicrobial resistance by fusing WGS, pangenome and<br>
+transcriptomics in an attention model, with SHAP to show what it learned.
 
-<img src="GitM2.png" width="100%">
+**[scqc](https://github.com/mayankgandhi13/scqc)** &nbsp;·&nbsp; <samp>rust</samp><br>
+Single-cell RNA-seq QC pipeline, written in Rust.
 
-</td>
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
-</tr>
-</table>
+<div align="center">
 
----
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-<h3 align="center">🧰 Tech Stack</h3>
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-<p align="center">
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
+</div>
 
-</p>
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
----
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
-![Snake eating my contributions](https://raw.githubusercontent.com/mayankgandhi13/mayankgandhi13/output/github-contribution-grid-snake.svg)
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
+
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
+
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
